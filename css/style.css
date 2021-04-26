@@ -125,6 +125,10 @@ body {
     grid-column: span 2;
 }
 
+[data-operacion=suma] {
+    grid-row: span 2;
+}
+
 .result-caculadora {
     background: linear-gradient(317deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.7343312324929971) 43%, rgba(0,0,0,1) 100%);
     background-repeat: no-repeat;
